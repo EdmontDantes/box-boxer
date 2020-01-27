@@ -3,4 +3,31 @@ div {
   width: 65px;
   height: 65px;
   background-clip: content-box;
+  border: 1px solid black;
+  margin: 25px;
+}
+#first {
+  padding: 10px;
+}
+#second {
+  /* padding: 30px 80px 30px 80px; */
+  padding-top: 30px;
+  padding-right: 80px;
+  padding-bottom: 30px;
+  padding-left: 80px;
+  margin: 10px;
+}
+#third {
+  /* padding: 20px 20px 90px 20px; */
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 90px;
+  padding-left: 20px;
+}
+#fourth {
+  /* padding: 20px 140px 50px 250px; */
+  padding-top: 20px;
+  padding-right: 140px;
+  padding-bottom: 50px;
+  padding-left: 250px;
 }
